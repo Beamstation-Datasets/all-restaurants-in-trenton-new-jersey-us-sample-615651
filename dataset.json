@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Trenton, New Jersey. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Trenton, New Jersey, US",
+  "export_job_id": "cd3c4721-c1fe-4087-a504-4bf09b979476",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 615651,
+  "location_name": "Trenton",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-trenton-new-jersey-us-sample-615651",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/615651/beamstation_615651_restaurants-us-nj_SAMPLE_DIST.csv",
+  "sample_pct": 9.89,
+  "sample_records": 80,
+  "sample_sha256": "5b5261f63c46a222b4754aed6f00576f5b529856d1e8e6199c6cd571bb2fd029",
+  "sample_size_bytes": 302423,
+  "total_records": 809,
+  "updated_at": "2026-04-09T09:53:45.437358+00:00"
+}
