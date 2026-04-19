@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering Trenton, New Jersey. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Trenton, New Jersey, US",
-  "export_job_id": "cd3c4721-c1fe-4087-a504-4bf09b979476",
+  "export_job_id": "d5563e9a-ae23-480f-8952-335f31f3d396",
   "github_org": "Beamstation-Datasets",
   "id_short": 615651,
   "location_name": "Trenton",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-trenton-new-jersey-us-sample-615651",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/615651/beamstation_615651_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_pct": 9.89,
-  "sample_records": 80,
-  "sample_sha256": "5b5261f63c46a222b4754aed6f00576f5b529856d1e8e6199c6cd571bb2fd029",
-  "sample_size_bytes": 302423,
-  "total_records": 809,
-  "updated_at": "2026-04-09T09:53:45.437358+00:00"
+  "sample_records": 79,
+  "sample_sha256": "2d86f142d67850a30e1ef45ae5c6344869608ae28638e5dbe2cac2ca0b1b5b40",
+  "sample_size_bytes": 292940,
+  "total_records": 799,
+  "updated_at": "2026-04-16T09:48:20.158033+00:00"
 }
