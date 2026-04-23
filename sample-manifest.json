@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d5563e9a-ae23-480f-8952-335f31f3d396",
+  "export_job_id": "a60e810f-7b61-40a1-a4db-c9c94f3ea8aa",
   "id_short": 615651,
-  "published_at": "2026-04-19T19:16:12Z",
+  "published_at": "2026-04-23T19:23:32Z",
   "repo_name": "all-restaurants-in-trenton-new-jersey-us-sample-615651",
   "sample_asset_name": "beamstation_615651_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/615651/beamstation_615651_restaurants-us-nj_SAMPLE_DIST.csv",
-  "sample_records": 79,
-  "sample_sha256": "2d86f142d67850a30e1ef45ae5c6344869608ae28638e5dbe2cac2ca0b1b5b40",
-  "sample_size_bytes": 292940,
-  "total_records": 799
+  "sample_records": 72,
+  "sample_sha256": "369568eb3d98427641723f172da006c4094da306d12ce9474b6966d4295f310f",
+  "sample_size_bytes": 239480,
+  "total_records": 722
 }
