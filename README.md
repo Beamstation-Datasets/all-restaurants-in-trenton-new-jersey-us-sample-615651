@@ -1,6 +1,6 @@
 # All Restaurants in Trenton, New Jersey, US
 
-> Free BeamStation sample export with 72 rows and masked direct-contact fields.
+> Free BeamStation sample export with 80 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `615651` |
 | Location | Trenton |
 | Category | Restaurants |
-| Full dataset size | 722 records |
-| Free sample size | 72 records (9.97%) |
-| Last export | 2026-04-23T09:45:05.405656+00:00 |
+| Full dataset size | 806 records |
+| Free sample size | 80 records (9.93%) |
+| Last export | 2026-04-30T09:49:48.091741+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-trenton-new-jersey-us-sample-615651/releases/download/sample-latest/beamstation_615651_restaurants-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
